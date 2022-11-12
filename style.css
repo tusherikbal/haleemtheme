@@ -1,0 +1,66 @@
+/*
+Theme Name: wp_haleem Theme
+Theme URI: https://tusherikbal.com
+Author: Dev To Digital
+Author URI: https://tusherikbal.com/
+Description: This a multipurpose theme for wordpress business category theme. 
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: www.tusherikbal.com
+Text Domain: wp_haleem
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.single-counter {
+    padding: 60px;
+
+}
+
+
+.widgettitlebefore{
+    border-bottom: 1px solid #032032;
+}
+   
+
+#sidebar li{
+    list-style: none;
+   
+}
+#sidebar h4{
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+#sidebar li a{
+    padding:10px;
+}
+
+
+.blog-single p, .portfolio-single p {
+    margin: 0px 0;
+   
+}
+
+
+.comments-area{
+    margin-top:30px !important;
+    margin-bottom: 15px !important;
+}
+
+.logged-in-as{
+    color: red;
+}
+
+.comment-form label{
+    display: none !important;
+}
+.comment-notes{
+    padding: 10px;
+}
+
+.contact-form input, .contact-form textarea {
+ 
+    border: 1px solid #c3aaaa;
